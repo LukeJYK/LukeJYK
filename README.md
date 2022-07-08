@@ -1,4 +1,4 @@
-### Hi there, I am Luke(Yankai) Jiang
+### Hi there, I am Luke (Yankai) Jiang
 
 Computer engineering master student @ Northwestern University.
 
