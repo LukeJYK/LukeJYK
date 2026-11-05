@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Yankai Jiang 👋</h1>
 
-<!--
-**LukeJYK/LukeJYK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>PhD student @ Northeastern University</b> · Boston, MA<br/>
+  Building <b>sustainable computing systems</b> — making cloud, HPC, and AI greener in carbon <i>and</i> water.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://lukejyk.github.io/"><img src="https://img.shields.io/badge/Website-lukejyk.github.io-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://github.com/LukeJYK?tab=repositories"><img src="https://img.shields.io/github/followers/LukeJYK?label=Followers&style=flat-square&logo=github" alt="GitHub followers"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 Research Interests
+
+- 🌍 **Carbon- & water-aware computing** — scheduling and resource management for environmentally sustainable datacenters
+- ☁️ **Serverless & cloud systems** — energy/carbon-efficient function scheduling and keep-alive policies
+- 🖥️ **HPC sustainability** — modeling the water footprint of supercomputers
+- 🤖 **Green AI** — carbon-efficient LLM inference and serving
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,pytorch,aws,docker,linux,bash,git&theme=light" alt="Tech stack"/>
+</p>
+
+### 📫 Get in Touch
+
+Interested in sustainable systems, collaboration, or just want to chat? Find my contact info at **[lukejyk.github.io](https://lukejyk.github.io/)**.
