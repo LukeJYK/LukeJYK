@@ -1,11 +1,3 @@
-<h1 align="center">Hi, I'm Yankai Jiang 👋</h1>
-
-<p align="center">
-  PhD student @ Northeastern University · Boston, MA
-</p>
-
----
-
 🔬 **Research:** I build sustainable computing systems that cut the carbon and water footprint of cloud, HPC, and AI.
 
 🧭 **Exploring:** 🧬 Biology · ⚙️ ML Infra · 🎓 Education
@@ -15,12 +7,7 @@
 💻 **Most used languages:**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Verilog-4B8BBE?style=flat-square" alt="Verilog"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeJYK&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=C9A227&text_color=8B949E&custom_title=Languages%20by%20Usage" alt="Most used languages"/>
 </p>
 
 <br/>
