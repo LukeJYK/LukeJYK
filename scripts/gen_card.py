@@ -8,12 +8,12 @@ from xml.sax.saxutils import escape
 USER = "LukeJYK"
 EXCLUDE = {"Jupyter Notebook", "HTML", "CSS"}  # notebooks/markup skew byte counts
 TOP_N = 6
-GOLD, TEXT, MUTED = "#C9A227", "#8B949E", "#8B949E"
-COLORS = {
-    "Python": "#3572A5", "C": "#555555", "C++": "#f34b7d", "C#": "#178600",
-    "JavaScript": "#f1e05a", "TypeScript": "#3178c6", "Verilog": "#b2b7f8",
-    "VHDL": "#adb2cb", "Shell": "#89e051", "Cuda": "#3A4E3A", "Go": "#00ADD8",
-    "Rust": "#dea584", "Java": "#b07219", "Makefile": "#427819",
+GOLD, TEXT, MUTED = "#6A8CAF", "#8B949E", "#8B949E"
+COLORS = {  # muted palette
+    "JavaScript": "#8FA8C8", "Python": "#4F6D8F", "Verilog": "#9BB5A6",
+    "C#": "#7D9C8A", "VHDL": "#B4A9C6", "Shell": "#A8B8C9", "C": "#6B7785",
+    "C++": "#B88A9A", "TypeScript": "#5E86A8", "Cuda": "#7A8F7A", "Go": "#7FB2C4",
+    "Rust": "#C2A28C", "Java": "#A68B6E", "Makefile": "#8C9A7A",
 }
 
 def get(url):

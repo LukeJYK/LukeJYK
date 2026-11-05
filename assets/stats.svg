@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="190" viewBox="0 0 840 190">
-<style>.t{font:700 17px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#C9A227}.l{font:500 14px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#8B949E}.v{font:700 14px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#8B949E}</style>
+<style>.t{font:700 17px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#6A8CAF}.l{font:500 14px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#8B949E}.v{font:700 14px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#8B949E}</style>
 <rect x="0.5" y="0.5" width="839" height="189" rx="10" fill="none" stroke="#8B949E" stroke-opacity="0.3"/>
 <line x1="430.0" y1="20" x2="430.0" y2="170" stroke="#8B949E" stroke-opacity="0.3"/>
 <text class="t" x="20" y="34">GitHub Stats</text>
@@ -17,23 +17,23 @@
 <text class="v" x="400" y="174" text-anchor="end">38</text>
 <text class="t" x="450" y="34">Most Used Languages</text>
 <clipPath id="c"><rect x="450" y="50" width="370" height="10" rx="5"/></clipPath><g clip-path="url(#c)">
-<rect x="450.00" y="50" width="239.64" height="10" fill="#f1e05a"/>
-<rect x="689.14" y="50" width="90.72" height="10" fill="#3572A5"/>
-<rect x="779.36" y="50" width="20.95" height="10" fill="#b2b7f8"/>
-<rect x="799.81" y="50" width="8.18" height="10" fill="#178600"/>
-<rect x="807.49" y="50" width="6.82" height="10" fill="#adb2cb"/>
-<rect x="813.81" y="50" width="6.69" height="10" fill="#89e051"/>
+<rect x="450.00" y="50" width="239.50" height="10" fill="#8FA8C8"/>
+<rect x="689.00" y="50" width="90.88" height="10" fill="#4F6D8F"/>
+<rect x="779.39" y="50" width="20.93" height="10" fill="#9BB5A6"/>
+<rect x="799.82" y="50" width="8.18" height="10" fill="#7D9C8A"/>
+<rect x="807.50" y="50" width="6.81" height="10" fill="#B4A9C6"/>
+<rect x="813.81" y="50" width="6.69" height="10" fill="#A8B8C9"/>
 </g>
-<circle cx="455.0" cy="95" r="5" fill="#f1e05a"/>
+<circle cx="455.0" cy="95" r="5" fill="#8FA8C8"/>
 <text class="l" x="466.0" y="100">JavaScript <tspan class="v">64.6%</tspan></text>
-<circle cx="640.0" cy="95" r="5" fill="#3572A5"/>
+<circle cx="640.0" cy="95" r="5" fill="#4F6D8F"/>
 <text class="l" x="651.0" y="100">Python <tspan class="v">24.4%</tspan></text>
-<circle cx="455.0" cy="127" r="5" fill="#b2b7f8"/>
+<circle cx="455.0" cy="127" r="5" fill="#9BB5A6"/>
 <text class="l" x="466.0" y="132">Verilog <tspan class="v">5.5%</tspan></text>
-<circle cx="640.0" cy="127" r="5" fill="#178600"/>
+<circle cx="640.0" cy="127" r="5" fill="#7D9C8A"/>
 <text class="l" x="651.0" y="132">C# <tspan class="v">2.1%</tspan></text>
-<circle cx="455.0" cy="159" r="5" fill="#adb2cb"/>
+<circle cx="455.0" cy="159" r="5" fill="#B4A9C6"/>
 <text class="l" x="466.0" y="164">VHDL <tspan class="v">1.7%</tspan></text>
-<circle cx="640.0" cy="159" r="5" fill="#89e051"/>
+<circle cx="640.0" cy="159" r="5" fill="#A8B8C9"/>
 <text class="l" x="651.0" y="164">Shell <tspan class="v">1.7%</tspan></text>
 </svg>

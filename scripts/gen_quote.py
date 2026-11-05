@@ -8,7 +8,7 @@ from fontTools.pens.svgPathPen import SVGPathPen
 from fontTools.pens.transformPen import TransformPen
 
 TEXT = "Not all those who wander are lost."
-COLOR = "#C9A227"
+COLOR = "#6A8CAF"
 SIZE = 44  # px
 
 font = TTFont(sys.argv[1])
