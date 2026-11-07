@@ -1,5 +1,6 @@
 🔬 **Research:** I build sustainable computing systems that cut the carbon and water footprint of cloud, HPC, and AI.<br/>
 🧭 **Interests:** 🧬 Biology · ⚙️ ML Infra · 🎓 Education<br/>
+⌨️ **Currently:** Going mouse-free — exploring editors, terminals, and keyboard-driven workflows<br/>
 🌐 **Website:** [lukejyk.github.io](https://lukejyk.github.io/)
 
 <p align="center">
