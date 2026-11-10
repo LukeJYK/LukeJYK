@@ -4,7 +4,7 @@
 <line x1="430.0" y1="20" x2="430.0" y2="170" stroke="#8B949E" stroke-opacity="0.3"/>
 <text class="t" x="20" y="34">GitHub Stats</text>
 <text class="l" x="20" y="64">Commits</text>
-<text class="v" x="400" y="64" text-anchor="end">408</text>
+<text class="v" x="400" y="64" text-anchor="end">420</text>
 <text class="l" x="20" y="86">Pull Requests</text>
 <text class="v" x="400" y="86" text-anchor="end">1</text>
 <text class="l" x="20" y="108">Issues</text>
@@ -17,23 +17,23 @@
 <text class="v" x="400" y="174" text-anchor="end">38</text>
 <text class="t" x="450" y="34">Most Used Languages</text>
 <clipPath id="c"><rect x="450" y="50" width="370" height="10" rx="5"/></clipPath><g clip-path="url(#c)">
-<rect x="450.00" y="50" width="239.08" height="10" fill="#8FA8C8"/>
-<rect x="688.58" y="50" width="90.72" height="10" fill="#4F6D8F"/>
-<rect x="778.80" y="50" width="20.90" height="10" fill="#9BB5A6"/>
-<rect x="799.19" y="50" width="8.16" height="10" fill="#7D9C8A"/>
-<rect x="806.86" y="50" width="7.34" height="10" fill="#A8B8C9"/>
-<rect x="813.70" y="50" width="6.80" height="10" fill="#B4A9C6"/>
+<rect x="450.00" y="50" width="238.42" height="10" fill="#8FA8C8"/>
+<rect x="687.92" y="50" width="90.47" height="10" fill="#4F6D8F"/>
+<rect x="777.89" y="50" width="20.84" height="10" fill="#9BB5A6"/>
+<rect x="798.23" y="50" width="8.34" height="10" fill="#A8B8C9"/>
+<rect x="806.07" y="50" width="8.14" height="10" fill="#7D9C8A"/>
+<rect x="813.71" y="50" width="6.79" height="10" fill="#B4A9C6"/>
 </g>
 <circle cx="455.0" cy="95" r="5" fill="#8FA8C8"/>
-<text class="l" x="466.0" y="100">JavaScript <tspan class="v">64.5%</tspan></text>
+<text class="l" x="466.0" y="100">JavaScript <tspan class="v">64.3%</tspan></text>
 <circle cx="640.0" cy="95" r="5" fill="#4F6D8F"/>
-<text class="l" x="651.0" y="100">Python <tspan class="v">24.4%</tspan></text>
+<text class="l" x="651.0" y="100">Python <tspan class="v">24.3%</tspan></text>
 <circle cx="455.0" cy="127" r="5" fill="#9BB5A6"/>
 <text class="l" x="466.0" y="132">Verilog <tspan class="v">5.5%</tspan></text>
-<circle cx="640.0" cy="127" r="5" fill="#7D9C8A"/>
-<text class="l" x="651.0" y="132">C# <tspan class="v">2.1%</tspan></text>
-<circle cx="455.0" cy="159" r="5" fill="#A8B8C9"/>
-<text class="l" x="466.0" y="164">Shell <tspan class="v">1.8%</tspan></text>
+<circle cx="640.0" cy="127" r="5" fill="#A8B8C9"/>
+<text class="l" x="651.0" y="132">Shell <tspan class="v">2.1%</tspan></text>
+<circle cx="455.0" cy="159" r="5" fill="#7D9C8A"/>
+<text class="l" x="466.0" y="164">C# <tspan class="v">2.1%</tspan></text>
 <circle cx="640.0" cy="159" r="5" fill="#B4A9C6"/>
 <text class="l" x="651.0" y="164">VHDL <tspan class="v">1.7%</tspan></text>
 </svg>
